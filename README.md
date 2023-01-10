@@ -1,9 +1,8 @@
 ### Hi there 👋
-# 💫 About Me:
-#👨‍💻 second year BCA student<br>
-#🌱 I'm currently Learning java,python,R,web development, operating system.
-#<br>🔭 I'm currently working on making an e-commerce website for my second year project.
-#<br>🤝 I'm looking for help with web development.<br>
+ 💫 About Me:
+<!--👨‍💻 second year BCA student<br>🌱 I'm currently Learning java,python,R,web development, operating system.
+<br>🔭 I'm currently working on making an e-commerce website for my second year project.
+<br>🤝 I'm looking for help with web development.<br>-->
 
 
 ## 🌐 Socials:
