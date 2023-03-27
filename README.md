@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://visitcount.itsvg.in/api?id=hytech842&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hytech842&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
